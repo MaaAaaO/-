@@ -1,0 +1,23 @@
+ul li a{
+    color:gold;
+    background: darkorchid;
+    padding: 10px;
+    font-size: 150%;
+}
+ul li{
+    display: inline;
+}
+ul li :hover{
+    background: cyan;
+}
+body{
+    background-color:lavender;
+}
+ol li{
+    padding: 3px;
+}
+ol {
+    margin-top: 20px;
+}
+@media screen and (max-width = 600px){
+}
